@@ -1,0 +1,39 @@
+﻿#EXTM3U8
+#EXTINF:-1,TVB翡翠台（海外版）
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1,ASTRO华丽台(TVB翡翠台 海外版MAS)
+https://epg.pw/stream/2cf070cda82dd84e924ef6a99f2d48b689d1791ef3bee05370347fb1967e33da.ctv
+#EXTINF:-1,TVB无线新闻台（港内版）
+https://tv.iill.top/tvb/3
+#EXTINF:-1,TVB无线新闻台（海外版）
+https://tv.iill.top/tvb/5
+#EXTINF:-1,TVB财经体育资讯台（海外版）
+https://tv.iill.top/tvb/7
+#EXTINF:-1,TVB星河台
+http://113.117.74.99:8081/hls/135/index.m3u8
+#EXTINF:-1,澳视澳门
+http://61.244.22.5/ch1/ch1.live/index.m3u8
+#EXTINF:-1,RTHK34(CGTN纪录)
+https://epg.pw/stream/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d1152e0ba.m3u8
+#EXTINF:-1,RTHK 35(CGTN)
+https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
+#EXTINF:-1,TVB无线新闻台（港内版高清）
+https://tv.iill.top/tvb/2
+#EXTINF:-1,TVB无线新闻台（海外版高清）
+http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1,TVB财经体育资讯台（港内版高清）【信号不稳定】
+https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv
+#EXTINF:-1,TVB财经体育资讯台（海外版高清）
+https://tv.iill.top/tvb/6
+#EXTINF:-1,TVB千禧经典台（高清）
+https://epg.pw/stream/5e171d08cda3bcf5826fc7f54f6bd91d116fdf7a88fe8f616798935b898e9a8e.ctv
+#EXTINF:-1,TVB娱乐新闻台（高清）
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1,凤凰卫视中文台（高清）
+http://113.117.74.99:8081/hls/37/index.m3u8
+#EXTINF:-1,凤凰卫视资讯台（高清）
+http://113.117.74.99:8081/hls/36/index.m3u8
+#EXTINF:-1,凤凰卫视香港台（高清）
+http://113.117.74.99:8081/hls/38/index.m3u8
+#EXTINF:-1,RTHK 32（高清）
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
